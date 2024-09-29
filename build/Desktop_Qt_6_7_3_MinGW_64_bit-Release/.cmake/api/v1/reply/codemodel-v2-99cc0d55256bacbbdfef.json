@@ -7,7 +7,7 @@
 				{
 					"build" : ".",
 					"hasInstallRule" : true,
-					"jsonFile" : "directory-.-Release-ba899332e0cebbde81cb.json",
+					"jsonFile" : "directory-.-Release-c9e1e6f48823905bb9a1.json",
 					"minimumCMakeVersion" : 
 					{
 						"string" : "3.16"
@@ -44,7 +44,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "imageRotationApp::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-imageRotationApp-Release-2de0dfa62f17645f0482.json",
+					"jsonFile" : "target-imageRotationApp-Release-a02c134e12a51475c43d.json",
 					"name" : "imageRotationApp",
 					"projectIndex" : 0
 				},
