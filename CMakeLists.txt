@@ -19,6 +19,8 @@ set(PROJECT_SOURCES
         mainwindow.ui
 )
 
+message(STATUS "Found Qt ${Qt${QT_VERSION_MAJOR}_VERSION}")
+
 if(${QT_VERSION_MAJOR} GREATER_EQUAL 6)
     qt_add_executable(imageRotationApp
         MANUAL_FINALIZATION

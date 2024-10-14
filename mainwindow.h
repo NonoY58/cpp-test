@@ -15,12 +15,15 @@ public:
     ~MainWindow();
 
 private slots:
+    void showImage();
     void rotateImage();
+    void flipImage();
 
 private:
     QLabel *imageLabel;
     QPixmap originalPixmap;
     int rotationAngle;
+    int isFlipped;
 };
 
 #endif // MAINWINDOW_H
